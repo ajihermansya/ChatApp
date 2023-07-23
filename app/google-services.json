@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570882015038",
+    "project_id": "chappappclonewa",
+    "storage_bucket": "chappappclonewa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570882015038:android:93e0afb7ed07b8f61b766f",
+        "android_client_info": {
+          "package_name": "com.rumahcerita.chappappclonewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570882015038-cj5dqqtsq02p3644krafedusko51ad5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsorMAQaMDLmeB9W0swP-_lVK9O-TpoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570882015038-cj5dqqtsq02p3644krafedusko51ad5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
